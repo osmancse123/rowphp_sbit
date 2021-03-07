@@ -1,0 +1,14 @@
+	<ul class="list-group list-group-flush">
+              <li class="list-group-item"><a href="#">Category</a></li>
+
+
+               <a href="#submenu1" class="list-group-item sub-item bg-light" data-toggle="collapse" data-parent="#submenu1">Laptop <span class=" menu-ico-collapse"><i class="glyphicon glyphicon-chevron-down"></i></span>
+               </a>
+
+              <div class="collapse list-group-submenu" id="submenu1">
+                <a href="#" class="list-group-item sub-sub-item" data-parent="#submenu1">SubSubPos1</a>
+                <a href="#" class="list-group-item sub-sub-item" data-parent="#submenu1">SubSubPos2</a>
+                <a href="#" class="list-group-item sub-sub-item" data-parent="#submenu1">SubSubPos3</a>
+                <a href="#" class="list-group-item sub-sub-item" data-parent="#submenu1">SubSubPos4</a>
+              </div>
+	</ul>
